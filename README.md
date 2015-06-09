@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/5ipb4e7ms55kt3h6?svg=true)](https://ci.appveyor.com/project/JohnVanTuyl/crisischeckin)
+
 crisischeckin
 =============
 
